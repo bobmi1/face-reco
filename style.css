@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: "Special Elite", cursive;
+}
+.header_div {
+     background-color: rgb(233, 141, 4);
+    color: rgb(255, 0, 0);
+
+    }
+.header_div p {
+    font-family: "Verdana";
+    color:darkgreen;
+    font-weight: 900;
+    font-size: medium;
+    letter-spacing: 3px;
+}
+.main_div button{
+    font-family: "Trebuchet MS";
+    font-weight: 900;
+    letter-spacing: 3px;
+    color: rgb(0, 0, 255);
+    margin-top: 30px;
+}
+.footer{
+    position: fixed;
+    background-color: aquamarine;
+    color: indigo;
+    bottom:0;
+    width: 100% ;
+    line-height: 1;
+    text-shadow: 5px 5px 5px tomato;
+    font-size: 20px;
+}   
